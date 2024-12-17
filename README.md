@@ -1,0 +1,1 @@
+This repository demonstrates a common Python error: ZeroDivisionError. The `bug.py` file contains a function that causes this error when the second argument is zero.  `bugSolution.py` provides a corrected version which includes error handling to prevent crashes.
